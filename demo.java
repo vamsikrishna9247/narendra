@@ -1,0 +1,5 @@
+ class demo
+{
+...... sample code
+}
+
